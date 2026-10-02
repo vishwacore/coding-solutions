@@ -30,7 +30,7 @@ Print the capitalized string, $S$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-02T09:31:40.599Z  
+**Submitted:** 2026-10-02T09:34:16.742Z  
 
 ```py
 
