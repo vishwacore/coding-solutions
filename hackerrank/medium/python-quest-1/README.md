@@ -53,7 +53,7 @@ Print $N-1$ lines as explained above.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-11T17:25:49.410Z  
+**Submitted:** 2026-10-29T17:39:50.767Z  
 
 ```py
 
